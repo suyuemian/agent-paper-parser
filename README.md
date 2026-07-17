@@ -12,7 +12,7 @@
 ### 安装
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/suyuemian/agent-paper-parser.git
 cd agent4
 
 # 安装依赖（清华源加速，可选）
