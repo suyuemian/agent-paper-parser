@@ -1,0 +1,17 @@
+python-dotenv>=1.0.0
+paddlepaddle==3.1.1
+paddleocr>=2.9.0
+# opencv 由 PaddleOCR 自动安装，不要单独指定版本
+Pillow>=10.0.0
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+transformers>=4.45.0
+torch>=2.0.0
+langchain>=0.3.0
+langchain-community>=0.3.0
+dashscope>=1.20.0
+fastapi>=0.115.0
+uvicorn>=0.30.0
+python-multipart>=0.0.12
+jieba>=0.42.1
+rank-bm25>=0.2.2
